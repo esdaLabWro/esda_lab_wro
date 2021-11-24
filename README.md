@@ -17,7 +17,7 @@
 Name: Esda Lab WRO [@esdaLabWro]( https://github.com/esdaLabWro )
 
 Professor:
-- Christodoulou Sotiris
+- Christodoulou Sotiris (https://www.ece.uop.gr/staff/sotiris-p-christodoulou/)
 
 Members:
 - Arvanitakis Panayiotis [@panaarva]( https://github.com/panaarva )
