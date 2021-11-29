@@ -23,7 +23,7 @@ Members:
 - Arvanitakis Panayiotis [@panaarva]( https://github.com/panaarva )
 - Gourvelos Spyros [@spgrvl]( https://github.com/spgrvl )
 - Anastasopoulos Zois
-- Pappas Lefteris
+- Pappas Lefteris [@lefterispap1]( https://github.com/lefterispap1 )
 - Roumeliotis George
 ## Video
 
