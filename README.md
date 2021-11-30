@@ -24,7 +24,7 @@ Members:
 - Gourvelos Spyros [@spgrvl]( https://github.com/spgrvl )
 - Anastasopoulos Zois
 - Pappas Lefteris [@lefterispap1]( https://github.com/lefterispap1 )
-- Roumeliotis George
+- Roumeliotis George [@GiorgosRoumeliotis](https://github.com/GiorgosRoumeliotis)
 ## Video
 
 <div align="center">
